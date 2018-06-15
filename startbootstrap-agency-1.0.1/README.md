@@ -1,4 +1,4 @@
-Test #1.b
+Test #1.c
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
